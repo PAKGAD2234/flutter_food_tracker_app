@@ -1,13 +1,15 @@
 📱 flutter_food_tracker_app
 
-แอปพลิเคชัน To-Do List พัฒนาด้วย Flutter
-สำหรับจัดการงานในชีวิตประจำวันแบบเรียบง่าย ใช้งานสะดวก
+แอปพลิเคชัน Food Tracker พัฒนาด้วย Flutter
+สำหรับบันทึกและจัดการรายการอาหารอย่างง่ายดาย ช่วยติดตามเมนูอาหารในแต่ละวันได้สะดวกและรวดเร็ว
 
 ✨ Features
-📋 แสดงรายการงานทั้งหมด (Show All Tasks)
-➕ เพิ่มงานใหม่ (Add food)
-✏️ แก้ไขงาน / 🗑️ ลบงาน (Update & Delete Task)
-<p 🚀 Splash Screen ก่อนเข้าแอป /><p/>
+🍽️ แสดงรายการอาหารทั้งหมด (Show All Foods)
+➕ เพิ่มรายการอาหารใหม่ (Add Food)
+✏️ แก้ไขรายการอาหาร / 🗑️ ลบรายการอาหาร (Update & Delete Food)
+📸 แสดงรูปภาพอาหารประกอบรายการ
+🚀 Splash Screen ก่อนเข้าแอป
+
 
 🔹 Splash Screen UI
 <p align="center"> <img width="250" alt="localhost_60763_" src="https://github.com/user-attachments/assets/ba75a120-55d9-40fa-87b1-f9673d98530f" /></p>
