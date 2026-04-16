@@ -18,7 +18,7 @@
 🔹 Add Food UI
 <p align="center"> <img width="250" alt="localhost_60763_ (2)" src="https://github.com/user-attachments/assets/e0c8f995-abf5-49a6-bdb6-a503012bc83e" />
  </p>
-🔹 Update & Delete Task UI
+🔹 Update & Delete Food UI
 <p align="center"> <img width="250"  alt="localhost_60763_ (3)" src="https://github.com/user-attachments/assets/676d217d-f917-42a7-b9b2-bd74bfb9a6c4" /></p>
 
 🛠️ Technologies Used
