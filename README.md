@@ -10,7 +10,7 @@
 <p 🚀 Splash Screen ก่อนเข้าแอป /><p/>
 
 🔹 Splash Screen UI
-<p align="center"> <img width="876" height="1138" alt="localhost_60763_" src="https://github.com/user-attachments/assets/ba75a120-55d9-40fa-87b1-f9673d98530f" /></p>
+<p align="center"> <img width="250" alt="localhost_60763_" src="https://github.com/user-attachments/assets/ba75a120-55d9-40fa-87b1-f9673d98530f" /></p>
 🔹 Show All Task UI
 <p align="center"> <img src="https://github.com/user-attachments/assets/5d307968-7664-40b3-ae1d-b18b0ecfeaf1" width="250"/> </p>
 🔹 Add Task UI
